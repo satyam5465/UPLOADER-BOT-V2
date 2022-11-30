@@ -14,7 +14,7 @@ class Config(object):
 
     TG_MAX_FILE_SIZE = 2097152000
 
-    FREE_USER_MAX_FILE_SIZE = 50000000
+    FREE_USER_MAX_FILE_SIZE = 50
     
     CHUNK_SIZE = int(128)
 
